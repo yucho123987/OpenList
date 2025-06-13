@@ -33,7 +33,7 @@
 >
 > We sincerely thank the original author [xhofe/alist](https://github.com/xhofe/alist) for his substantial prior contributions.
 >
-> This fork is not yet stable. A large number of external links point to unaudited content, posing a supply chain attack risk, including related documentation websites, etc. Do not trust!
+> This fork is not yet stable. A large number of external links point to unaudited content, posing a supply chain attack risk, including related documentation websites, etc. Do not fully trust!
 >
 > Currently, only links confirmed to be outside the original author's control (such as `alistgo.com`) have been removed, The detailed migration progress of the project can be viewed in the [OpenList Migration Summary](https://github.com/OpenListTeam/OpenList/issues/6).
 
